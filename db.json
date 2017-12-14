@@ -1,13 +1,12 @@
 {
-"users": [
+	"users": [
 		{"id" : 1, "name": "Siddharth" },
 		{"id" : 2, "name": "Lucky" },
 		{"id" : 3, "name": "Siddhu" },
 		{"id" : 4, "name": "Kalia" }
 	],
-"topics": [
-		{"id":1, "subject": "JAVA"},
-		{"id":2, "subject": "JAVASCRIPT"},
-		{"id":3, "subject": "PYTHON"}
-	]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
 }
