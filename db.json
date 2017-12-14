@@ -1,9 +1,9 @@
 [
 	{
-		name: 'Sid',
-		id: 1
+		'name': 'Sid',
+		'id': 1
 	},{
-		name: 'Lucky',
-		id: 2
+		'name': 'Lucky',
+		'id': 2
 	}
 ]
