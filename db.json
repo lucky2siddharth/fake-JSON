@@ -1,17 +1,8 @@
 {
-	'users': [
-			{
-				'id' : 1,
-				'name': 'Siddharth'
-			},{
-				'id' : 2,
-				'name': 'Lucky'
-			},{
-				'id' : 3,
-				'name': 'Siddhu'
-			},{
-				'id' : 4,
-				'name': 'Kalia'
-			}
-		]
+"users": [
+		{"id" : 1, "name": "Siddharth" },
+		{"id" : 2, "name": "Lucky" },
+		{"id" : 3, "name": "Siddhu" },
+		{"id" : 4, "name": "Kalia" }
+	]
 }
