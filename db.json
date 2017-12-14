@@ -1,5 +1,5 @@
 {
-	'users': {
+	'users': [
 			{
 				'id' : 1,
 				'name': 'Siddharth'
@@ -13,5 +13,5 @@
 				'id' : 4,
 				'name': 'Kalia'
 			}
-		}
+		]
 }
